@@ -10,7 +10,6 @@ import com.xiaohe.ioc.User;
 
 
 
-
 public class Test_Bean2 {
 	
 	@Test
